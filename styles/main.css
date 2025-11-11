@@ -178,7 +178,7 @@ footer {
 }
 
 .navbar li ul{
-    display: none;
+    /*display: none;*/
     position:absolute;
     background-color: var(--accent-color);
     list-style: none;
